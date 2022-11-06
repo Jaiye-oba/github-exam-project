@@ -1,0 +1,24 @@
+.pagination{
+    display: flex;
+    margin-top: 4em;
+    list-style-type: none;
+    justify-content: space-around;
+    width: 90vw;
+    height: 40px;
+    padding: 0.5em;
+    background-color: black;
+    border-radius: 7px;
+}
+.page-link{
+    border: 2px solid #eee;
+    width: 30px;
+    height: auto;
+    background-color: white;
+    padding: 5px;
+}
+.page-link a {
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+}

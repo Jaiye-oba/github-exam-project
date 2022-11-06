@@ -1,0 +1,15 @@
+.about{
+    height: 80vh;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:  #eee;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px solid black;
+    box-shadow: 0 0 5px 3px lightgray;
+}
